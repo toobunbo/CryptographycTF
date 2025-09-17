@@ -87,7 +87,7 @@ Tất nhiên là không ngửa.
 N-gram là một chuỗi gồm N ký tự liên tiếp. Nó hoạt động như một "dấu vân tay" thống kê, ghi lại các mẫu ký tự đặc trưng của một ngôn ngữ.
 - Unigram: ```(E, T , H,..)``` phản ánh tần suất của từng ký tự riêng lẻ. Đây là phương pháp **phân tích tần suất** cổ điển ta đã bàn.
 - Bigram ```(TH, ER, IN...)```: Cho thấy các cặp ký tự nào thường đi liền với nhau, cung cấp ngữ cảnh cơ bản.
-* v.v
+- v.v
 
 Ở phương pháp này ta sẽ sử dụng Quadgram (N = 4) để triển khai, một giá trị vừa đủ dài để nắm bắt các từ có nghĩa nhưng cũng đủ phổ biến để xuất hiện thường xuyên trong kho dữ liệu. Sự cân bằng hoàn hảo giữa **tính đặc trưng** và **tính phổ quát**. 
 
