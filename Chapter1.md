@@ -102,12 +102,17 @@ al-Kindī giải thích theo 3 ý chính sau:
 poadens figg wns hit khiwh ti onye eatoer wafe ir moadcreh, woamo lnv onppeh ti toe list oihest peipde; eatoer redntayeu ir henr fraehcs, woamo as mertnahdv lire uhusund. oe dayec ndihe ah oas oiuse ah snyadde riw, woatoer hihe pehetrntec. n sahgde cilestam suffamec ti serye oal. oe brenkfnstec nhc cahec nt toe mdub, nt oiurs lntoelntamnddv fajec, ah toe snle riil, nt toe snle tnbde, heyer tnkahg oas lends wato itoer lelbers, lumo dess brahgahg n guest wato oal; nhc weht oile nt ejnmtdv lachagot, ihdv ti retare nt ihme ti bec. oe heyer usec toe misv monlbers woamo toe refirl priyaces fir ats fnyiurec lelbers. oe pnssec teh oiurs iut if toe twehtv-fiur ah snyadde riw, eatoer ah sdeepahg ir lnkahg oas tiadet.
 ```
 Vẫn chưa giải mã hoàn chỉnh, nhưng ta có thể dự đoán được những từ còn lại. Ví dụ: "poadens figg wns...", nghe khá giống tên của một người nổi tiếng "Phileas Fogg", còn "wns" thì chắn chắn là "was" rồi. Áp dụng thay đổi:
-- O -> h
-- a -> i
-- d -> l
-- n -> a
-- i -> o
+- O --> h
+- a --> i
+- d --> l
+- n --> a
+- i --> o
+  
+Tương tự với các chứ cái còn lại, ta được văn bản sau khi giải mã:
 
+```
+phileas fogg was not known to have either wife or children, which may happen to the most honest people; either relativeu or near friends, which is certainly more unusual. he lived alone in his house in saville row, whither none penetrated. a single domestic sufficed to serve him. he breakfasted and dined at the club, at hours mathematically fixed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at exactly midnight, only to retire at once to bed. he never used the cosy chambers which the reform provides for its favoured members. he passed ten hours out of the twenty-four in saville row, either in sleeping or making his toilet
+```
 
 
 
