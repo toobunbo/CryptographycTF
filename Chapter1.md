@@ -89,7 +89,7 @@ N-gram là một chuỗi gồm N ký tự liên tiếp. Nó hoạt động như 
 - Bigram ```(TH, ER, IN...)```: Cho thấy các cặp ký tự nào thường đi liền với nhau, cung cấp ngữ cảnh cơ bản.
 * v.v
 
-Ở phương pháp này ta sẽ sử dụng Quadgram (N = 4) để triển khai, một giá trị vừa đủ dài để nắm bắt các từ có nghĩa nhưng cũng đủ dài để xuất hiện thường xuyên trong kho dữ liệu. Sự cân bằng hoàn hảo giữa **tính đặc trưng** và **tính phổ quát**. 
+Ở phương pháp này ta sẽ sử dụng Quadgram (N = 4) để triển khai, một giá trị vừa đủ dài để nắm bắt các từ có nghĩa nhưng cũng đủ phổ biến để xuất hiện thường xuyên trong kho dữ liệu. Sự cân bằng hoàn hảo giữa **tính đặc trưng** và **tính phổ quát**. 
 
 Quan trọng nhất *Quadgram* đánh giá ký tự dựa trên **mối quan hệ của nó với các ký tự lân cận**, phản ánh đúng bản chất của ngôn ngữ. Điều này làm nó  vượt trội hơn nhiều so với phương pháp phân tích tần suất truyền thống.
 
