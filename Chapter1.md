@@ -15,7 +15,7 @@ xuất hiện trong _Kāma-Sūtra_, một bản viết tay ở thế kỷ 4 sau 
 nên học sáu mươi tư nghệ thuật, như nấu ăn, may vá, massage,và làm nước hoa... Môn thứ bốn mươi lăm trong danh sách là **mlecchitavikalpā**, nghệ thuật viết thư bí mật, nhằm giúp người phụ nữ che giấu những quan hệ bất chính của mình. ~~:))~~ 
 
 Nguyên tắc hoạt động cũng rất đơn giản:
-- Mật mã thay thế: Một trong những kỹ thuật được là tạo những cặp chữ cái trong bảng chữ cái một cách ngẫu nhiên, rồi sau đó mỗi chữ cái trong thư sẽ được thay thế bằng chữ cùng cặp với nó.
+- Mật mã thay thế: Một kỹ thuật tạo ra những cặp chữ cái trong bảng chữ cái một cách ngẫu nhiên, rồi sau đó mỗi chữ cái trong thư sẽ được thay thế bằng chữ cùng cặp với nó.
 <image></image>
 
 Substitution.py: 
@@ -123,8 +123,8 @@ WITH 7627991
 1. Chia ciphertext thành các quadgram bằng kỹ thuật "cửa số trượt": ```Ciphertext = [ZQHH, QHHN, HHNF] ```.
 2. Thay thế ngẫu nhiên các ký tự trong Ciphertext
 3. Tham chiếu Ciphertext đến quadgrams.txt. Tính toán Score.
-4. Thực hiện một vài thay đổi nhỏ (ví dụ H --> P, F --> E):  ```Ciphertext = [ZQPP, QPPN, PPNE] ```. Tính toán score.
-5. Lặp lại sau N lần thử, lưu lại kết quả có điểm cao nhất.
+4. Thực hiện một vài thay đổi nhỏ (ví dụ H --> P, F --> E):  ```Ciphertext = [ZQPP, QPPN, PPNE] ```. Tính toán Score.
+5. Lặp lại sau N lần thử, lưu lại kết quả có Score cao nhất.
 6. Tiếp tục thay thế ngẫu nhiên Ciphertext ban đầu và lặp lại các bước. Sau K lần lặp lại, in ra kết quả có Score cao nhất:  ```HAPPEN```.
 
 Áp dụng với bài toán trên:
