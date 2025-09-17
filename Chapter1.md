@@ -113,7 +113,17 @@ Tương tự với các chứ cái còn lại, ta được văn bản sau khi gi
 ```
 phileas fogg was not known to have either wife or children, which may happen to the most honest people; either relativeu or near friends, which is certainly more unusual. he lived alone in his house in saville row, whither none penetrated. a single domestic sufficed to serve him. he breakfasted and dined at the club, at hours mathematically fixed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at exactly midnight, only to retire at once to bed. he never used the cosy chambers which the reform provides for its favoured members. he passed ten hours out of the twenty-four in saville row, either in sleeping or making his toilet
 ```
-Done
+Done.
+</image>
+
+Đùa thôi, có quá nhiều vấn đề ở cách làm này. Dễ thấy nhất là chiều dài của ciphertext phải đủ ngắn để ta có thể chỉnh sữa thủ công. Mà thật ra cũng chẳng ai ngồi chỉnh sửa thủ công, người ta quăng lên Quipquip :))). 
+-    Sử dụng các public tool có sẵn như Quipquip là cách tối ưu nhất khi gặp Subtitution trên CTF.
+-    Vậy nếu Ciphertext quá lớn, siêu lớn, không copy quăng lên Quipquip được thì sao? ~~thì ngửa~~
+
+~~Viết block học thuật mà chưa thấy chỗ học thuật~~
+
+### Kết bài
+Đọc đến đây rồi có thấy cấn cấn ở đâu không? Có quá nhiều vấn đề ở cách 
 
 
 
