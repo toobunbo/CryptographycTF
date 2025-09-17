@@ -94,7 +94,7 @@ al-Kindī giải thích theo 3 ý chính sau:
    
 ### Phân tích một văn bản mật Mã
 <img width="1091" height="472" alt="image" src="https://github.com/user-attachments/assets/f8a4bb93-2252-4ae5-89a7-b23508b52ec7" />
-- Văn bản mã hoá sau khi áp dụng phân tích tuần suất
+
 ```
 --- Văn bản giải mã  ---
 poadens figg wns hit khiwh ti onye eatoer wafe ir moadcreh, woamo lnv onppeh ti toe list oihest peipde; eatoer redntayeu ir henr fraehcs, woamo as mertnahdv lire uhusund. oe dayec ndihe ah oas oiuse ah snyadde riw, woatoer hihe pehetrntec. n sahgde cilestam suffamec ti serye oal. oe brenkfnstec nhc cahec nt toe mdub, nt oiurs lntoelntamnddv fajec, ah toe snle riil, nt toe snle tnbde, heyer tnkahg oas lends wato itoer lelbers, lumo dess brahgahg n guest wato oal; nhc weht oile nt ejnmtdv lachagot, ihdv ti retare nt ihme ti bec. oe heyer usec toe misv monlbers woamo toe refirl priyaces fir ats fnyiurec lelbers. oe pnssec teh oiurs iut if toe twehtv-fiur ah snyadde riw, eatoer ah sdeepahg ir lnkahg oas tiadet.
