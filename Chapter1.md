@@ -43,7 +43,7 @@ Bản mã tương ứng: L ORYH WGWX!
 - Bắt đầu với Rotation trước đi, có thể thấy do giới hạn về số lượng bảng chữ cái (tiếng Anh), một thuật toán Brute Force nho nhỏ là có thể giải quyết được. ~~tự viết đi m~~
 - Với mã hoá thay thế bằng bảng chữ cái thì sao? Có **26!** tổ hợp hoán vị có thể xảy ra, khiến cho việc BF trở nên bất khả thi.
 
-"Vậy là mã hoá thay thế ký tự nó an toàn chưa?" Có, cho tới khi một ông Ả Rập tên là al-Kindī, phát triển một kỹ thuật gọi là **Phân tích tần suất**. *Mã thay thế dùng một bảng chữ cái (monoalphabetic substitution cipher) phá sản từ đây.*
+"Vậy là mã hoá thay thế ký tự nó an toàn chưa?" Có, cho tới khi một ông Ả Rập tên là al-Kindī, thi triển kỹ thuật **Phân tích tần suất**. *Mã thay thế dùng một bảng chữ cái (monoalphabetic substitution cipher) phá sản từ đây.*
 
 ## Phân tích tần suất 
 al-Kindī giải thích theo 3 ý chính sau: 
