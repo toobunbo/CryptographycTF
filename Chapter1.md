@@ -102,7 +102,7 @@ al-Kindī giải thích theo 3 ý chính sau:
 poadens figg wns hit khiwh ti onye eatoer wafe ir moadcreh, woamo lnv onppeh ti toe list oihest peipde; eatoer redntayeu ir henr fraehcs, woamo as mertnahdv lire uhusund. oe dayec ndihe ah oas oiuse ah snyadde riw, woatoer hihe pehetrntec. n sahgde cilestam suffamec ti serye oal. oe brenkfnstec nhc cahec nt toe mdub, nt oiurs lntoelntamnddv fajec, ah toe snle riil, nt toe snle tnbde, heyer tnkahg oas lends wato itoer lelbers, lumo dess brahgahg n guest wato oal; nhc weht oile nt ejnmtdv lachagot, ihdv ti retare nt ihme ti bec. oe heyer usec toe misv monlbers woamo toe refirl priyaces fir ats fnyiurec lelbers. oe pnssec teh oiurs iut if toe twehtv-fiur ah snyadde riw, eatoer ah sdeepahg ir lnkahg oas tiadet.
 ```
 Vẫn chưa giải mã hoàn chỉnh, nhưng ta có thể dự đoán được những từ còn lại. Ví dụ: "poadens figg wns...", nghe khá giống tên của một người nổi tiếng "Phileas Fogg", còn "wns" thì chắn chắn là "was" rồi. Áp dụng thay đổi:
-- O --> h
+- o --> h
 - a --> i
 - d --> l
 - n --> a
@@ -119,6 +119,10 @@ Done.
 Đùa thôi, có quá nhiều vấn đề ở cách làm này:
 - Dễ thấy nhất là chiều dài của ciphertext phải đủ ngắn để ta có thể chỉnh sữa thủ công. Mà thật ra cũng chẳng ai ngồi chỉnh sửa thủ công, người ta quăng lên `Quipquip` :))). 
 - Sử dụng các chương trình có sẵn như `Quipquip` là cách tối ưu nhất khi gặp Subtitution trên CTF. Vậy nếu **Ciphertext quá lớn, siêu lớn, không copy được** để quăng lên Quipquip được thì sao? ~~thì ngửa~~.
+
+Tất nhiên là không ngửa. Vậy giải pháp là gì? ~~biết thì nó viết r~~
+
+## Cách người sành điệu làm việc với Subtitution: Thống kê N-gram (N-gram Statistics)
 
 
 ~~Viết block học thuật mà chưa thấy chỗ học thuật~~
