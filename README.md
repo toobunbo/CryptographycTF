@@ -25,4 +25,4 @@ Phạm vi của các thử thách mật mã trong CTF rất rộng lớn. Nó b�
   
 -   **Decryption (Giải mã)**: Quá trình chuyển đổi ciphertext trở lại plaintext.
 
-<img width="1000" height="450" alt="image" src="https://github.com/user-attachments/assets/55c9a0f4-f2bd-4c9e-9f81-13a89d2ff111" />
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/95aced98-cbd0-4d87-a000-4c2cfaca2626" />
