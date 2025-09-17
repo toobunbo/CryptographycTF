@@ -10,7 +10,7 @@ Tên sao thì nó vậy thôi, vì nội dung này không còn quá xa lạ nên
 
 Một trong những mô tả đầu tiên về mã hóa sử dụng phương pháp thay thế
 xuất hiện trong _Kāma-Sūtra_, một bản viết tay ở thế kỷ 4 sau CN của nhà thông thái Bàlamôn tên là Vātsyāyana. _Kāma-Sūtra_ khuyên phụ nữ
-nên học sáu mươi tư nghệ thuật, như nấu ăn, may vá, massage,và làm nước hoa... Môn thứ bốn mươi lăm trong danh sách là **mlecchitavikalpā**, nghệ thuật viết thư bí mật, nhằm giúp người phụ nữ che giấu những quan hệ bất chính của mình. ~~:))~~ 
+nên học sáu mươi tư nghệ thuật, như nấu ăn, may vá, massage,và làm nước hoa... Môn thứ bốn mươi lăm trong danh sách là **mlecchitavikalpā**, nghệ thuật viết thư bí mật, nhằm giúp người phụ nữ che giấu những quan hệ bất chính của mình.[1] ~~:))~~ 
 
 Nguyên tắc hoạt động cũng rất đơn giản:
 - Mật mã thay thế: Một kỹ thuật tạo ra những cặp chữ cái trong bảng chữ cái một cách ngẫu nhiên, rồi sau đó mỗi chữ cái trong thư sẽ được thay thế bằng chữ cùng cặp với nó.
@@ -140,6 +140,8 @@ PHILEAS FOGG WAS NOT KNOWN TO HAVE EITHER WIFE OR CHILDREN, WHICH MAY HAPPEN TO 
 
 Thật sự Done.
 
+## Nguồn tham khảo
+[1] S. Singh, "Chương 1," trong *Mật mã: Từ cổ điển đến lượng tử*.
 
 
 
