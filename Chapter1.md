@@ -73,7 +73,7 @@ Tương tự với các chứ cái còn lại, ta được văn bản sau khi gi
 ```
 phileas fogg was not known to have either wife or children, which may happen to the most honest people; either relativeu or near friends, which is certainly more unusual. he lived alone in his house in saville row, whither none penetrated. a single domestic sufficed to serve him. he breakfasted and dined at the club, at hours mathematically fixed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at exactly midnight, only to retire at once to bed. he never used the cosy chambers which the reform provides for its favoured members. he passed ten hours out of the twenty-four in saville row, either in sleeping or making his toilet
 ```
-Done.
+**Done.**
 <img width="1077" height="800" alt="image" src="https://github.com/user-attachments/assets/38217b5b-b408-4592-af98-a2ab3f1cd6b9" />
 
 Đùa thôi, có quá nhiều vấn đề ở cách làm này:
