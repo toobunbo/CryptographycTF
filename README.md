@@ -14,6 +14,7 @@ Phạm vi của các thử thách mật mã trong CTF rất rộng lớn. Nó b�
 - **Mật mã dòng (Stream Ciphers)**: Các phương pháp mã hóa dữ liệu từng bit hoặc từng byte, thường sử dụng phép toán _XOR_. 
 - **Mật mã bất đối xứng (Asymmetric Cryptography)**: Các hệ thống sử dụng cặp khóa công khai-khai riêng, như `RSA`. ~~cá nhân tôi thích con hàng này nhất~~  
 
+### Các thuật ngữ cơ bản
 -   **Plaintext**: Thông điệp gốc, chưa được mã hóa.
 
 -   **Ciphertext**: Thông điệp đã được mã hóa, không thể đọc được nếu không có khóa.
