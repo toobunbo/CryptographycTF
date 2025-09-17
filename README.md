@@ -22,5 +22,7 @@ Phạm vi của các thử thách mật mã trong CTF rất rộng lớn. Nó b�
 -   **Key**: Thông tin bí mật được sử dụng để mã hóa và giải mã.
 
 -   **Encryption (Mã hóa)**: Quá trình chuyển đổi plaintext thành ciphertext.
-
+-   
 -   **Decryption (Giải mã)**: Quá trình chuyển đổi ciphertext trở lại plaintext.
+
+  https://www.pinterest.com/pin/16325617396655282/
