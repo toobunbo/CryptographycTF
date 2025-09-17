@@ -118,7 +118,7 @@ Done.
 
 Đùa thôi, có quá nhiều vấn đề ở cách làm này:
 - Dễ thấy nhất là chiều dài của ciphertext phải đủ ngắn để ta có thể chỉnh sữa thủ công. Mà thật ra cũng chẳng ai ngồi chỉnh sửa thủ công, người ta quăng lên `Quipquip` :))). 
-- Sử dụng các chương trình có sẵn như `Quipquip` là cách tối ưu nhất khi gặp Subtitution trên CTF. Vậy nếu **Ciphertext quá lớn, siêu lớn, không copy quăng lên Quipquip được thì sao?** ~~thì ngửa~~.
+- Sử dụng các chương trình có sẵn như `Quipquip` là cách tối ưu nhất khi gặp Subtitution trên CTF. Vậy nếu **Ciphertext quá lớn, siêu lớn, không copy được** để quăng lên Quipquip được thì sao? ~~thì ngửa~~.
 
 
 ~~Viết block học thuật mà chưa thấy chỗ học thuật~~
