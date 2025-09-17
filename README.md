@@ -4,8 +4,6 @@
 * Tuy nhiên ở CTF lại là một phạm trù khác, cũng giống như các category khác, phần lớn thử thách sẽ tập trung vào khai thác lỗ hổng triển khai của hệ thống (ở đây là những thuật toán mã hoá hiện đại). 
 
 `Fun Fact`: Từ _"Cryptography"_ về mặt kỹ thuật được hiểu là _"Nghệ thuật viết code"_... ~~Xem hết Series này để trở thành nghệ nhân~~ 🌝
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/55c9a0f4-f2bd-4c9e-9f81-13a89d2ff111" />
-
 
 ### Sơ lược 
 
@@ -27,3 +25,4 @@ Phạm vi của các thử thách mật mã trong CTF rất rộng lớn. Nó b�
   
 -   **Decryption (Giải mã)**: Quá trình chuyển đổi ciphertext trở lại plaintext.
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/55c9a0f4-f2bd-4c9e-9f81-13a89d2ff111" />
