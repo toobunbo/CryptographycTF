@@ -46,7 +46,7 @@ Bản mã tương ứng: L ORYH WGWX!
 "Vậy là mã hoá thay thế ký tự nó an toàn chưa?" Có, cho tới khi một ông Ả Rập tên là al-Kindī, thi triển kỹ thuật **Phân tích tần suất**. *Mã thay thế dùng một bảng chữ cái (monoalphabetic substitution cipher) phá sản từ đây.*
 
 ## Phân tích tần suất 
-al-Kindī giải thích theo 3 ý chính sau: 
+al-Kindī phân tích việc giải mật mã thay thế trong trường hợp biết nó được viết với ngôn ngữ nào, theo 3 ý chính sau: 
 1. Tìm một văn bản có cùng ngôn ngữ.
 2. Đếm số lần xuất hiện của từng chữ cái trong văn bản thường. Ký hiệu số từ xuất hiện nhiều nhất là "thứ nhất", "thứ hai",..
 3. Thay thế từ xuất hiện nhiều nhất trong văn bảng mã hoá bằng số từ đã được ký hiệu tương ứng ở bước 2.
