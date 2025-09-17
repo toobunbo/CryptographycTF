@@ -8,7 +8,7 @@
 Bản thân mật mã có thể được chia ra làm hai nhánh, được gọi
 là **chuyển vị** và **thay thế**. Ở nội dung này ta sẽ chỉ đề cập đến mật mã **thay thế** và **chuyển vị mà không giống chuyển vị**.
 ### Cách triển khai
-Tên sao thì nó vậy thôi, vì nội dung này không còn quá xa lạ nên nói qua một chút về lịch sử mật mã nhở.
+Tên sao thì nó vậy thôi, vì nội dung này không còn quá xa lạ nên nói qua một chút về lịch sử mật mã cổ điển.
 
 Một trong những mô tả đầu tiên về mã hóa sử dụng phương pháp thay thế
 xuất hiện trong _Kāma-Sūtra_, một bản viết tay ở thế kỷ 4 sau CN của nhà thông thái Bàlamôn tên là Vātsyāyana. _Kāma-Sūtra_ khuyên phụ nữ
