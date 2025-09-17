@@ -27,7 +27,7 @@ Bảng chữ cái mã hóa: QWERTYUIOPASDFGHJKLZXCVBNM
 Bản mã tương ứng:      DTTZ QZ DORFOUIZ.
 
 ```
-- Mật mã Ceasar thậm chí còn đơn giản hơn, khi ông thay thế từng chữ cái trong plaintext bằng một chữ cái đứng cách đó 3 vị trí trong bảng chữ cái, song rõ ràng là bằng cách sử dụng sự dịch chuyển bất kỳ từ 1 đến 25 vị trí, ta có thể tạo ra 25 loại mật mã khác nhau cái mà ngày nay ta gọi là **Rotation**, tiêu biểu là _ROT13_
+- Mật mã Ceasar thậm chí còn đơn giản hơn, khi ông thay thế từng chữ cái trong plaintext bằng một chữ cái đứng cách đó 3 vị trí trong bảng, song rõ ràng là bằng cách sử dụng sự dịch chuyển bất kỳ từ 1 đến 25 vị trí, ta có thể tạo ra 25 loại mật mã khác nhau cái mà ngày nay ta gọi là **Rotation**, tiêu biểu là _ROT13_
   
 Rotation.py:
 ```
