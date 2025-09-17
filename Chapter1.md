@@ -84,8 +84,15 @@ Bản mã tương ứng: L ORYH WGWX!
 - Bắt đầu với Rotation trước đi, có thể thấy do giới hạn về số lượng bảng chữ cái (tiếng Anh), một thuật toán Brute Force nho nhỏ là có thể giải quyết được. ~~tự viết đi m~~
 - Với mã hoá thay thế bằng bảng chữ cái thì sao? Có **26!** tổ hợp hoán vị có thể xảy ra, khiến cho việc BF trở nên bất khả thi. "Vậy là mã hoá thay thế ký tự nó an toàn chưa?" Có, cho tới khi một ông Ả Rập tên là al-Kindī, phát triển một kỹ thuật gọi là **Phân tích tần suất**. *Mã thay thế dùng một bảng chữ cái (monoalphabetic substitution cipher) phá sản từ đây.*
 
-### Phân tích tần suất 
-
+## Phân tích tần suất 
+al-Kindī giải thích theo 3 ý chính sau: 
+1. Tìm một văn bản có cùng ngôn ngữ.
+2. Đếm số lần xuất hiện của từng chữ cái trong văn bản thường. Ký hiệu số từ xuất hiện nhiều nhất là "thứ nhất", "thứ hai",..
+3. Thay thế từ xuất hiện nhiều nhất trong văn bảng mã hoá bằng số từ đã được ký hiệu tương ứng ở bước 2.
+   
+### Phân tích một văn bản mật Mã
+<img width="1091" height="472" alt="image" src="https://github.com/user-attachments/assets/f8a4bb93-2252-4ae5-89a7-b23508b52ec7" />
+Sau khi áp dụng phân tích tần suất
 
 
 
