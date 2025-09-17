@@ -12,11 +12,12 @@ Tên sao thì nó vậy thôi, vì nội dung này không còn quá xa lạ nên
 
 Một trong những mô tả đầu tiên về mã hóa sử dụng phương pháp thay thế
 xuất hiện trong _Kāma-Sūtra_, một bản viết tay ở thế kỷ 4 sau CN của nhà thông thái Bàlamôn tên là Vātsyāyana. _Kāma-Sūtra_ khuyên phụ nữ
-nên học sáu mươi tư nghệ thuật, như nấu ăn, may vá, massage,và làm nước hoa... Môn thứ bốn mươi lăm trong danh sách là **mlecchitavikalpā**, nghệ thuật viết thư bí mật, nhằm giúp người phụ nữ che giấu những quan hệ bất chính của mình :))). 
+nên học sáu mươi tư nghệ thuật, như nấu ăn, may vá, massage,và làm nước hoa... Môn thứ bốn mươi lăm trong danh sách là **mlecchitavikalpā**, nghệ thuật viết thư bí mật, nhằm giúp người phụ nữ che giấu những quan hệ bất chính của mình. ~~:))~~ 
 
 Nguyên tắc hoạt động cũng rất đơn giản:
 - Mật mã thay thế: Một trong những kỹ thuật được là tạo những cặp chữ cái trong bảng chữ cái một cách ngẫu nhiên, rồi sau đó mỗi chữ cái trong thư sẽ được thay thế bằng chữ cùng cặp với nó.
 <image></image>
+
 Substitution.py: 
 
 ```
@@ -47,6 +48,7 @@ Bản mã tương ứng:      DTTZ QZ DORFOUIZ.
 
 ```
 - Mật mã Ceasar thậm chí còn đơn giản hơn, khi ông thay thế từng chữ cái trong plaintext bằng một chữ cái đứng cách đó 3 vị trí trong bảng chữ cái, song rõ ràng là bằng cách sử dụng sự dịch chuyển bất kỳ từ 1 đến 25 vị trí, ta có thể tạo ra 25 loại mật mã khác nhau cái mà ngày nay ta gọi là **Rotation**, tiêu biểu là _ROT13_
+  
 Rotation.py:
 ```
 def ma_hoa_dich_vong(plaintext: str, Shiftkey: int) -> str:
@@ -92,7 +94,11 @@ al-Kindī giải thích theo 3 ý chính sau:
    
 ### Phân tích một văn bản mật Mã
 <img width="1091" height="472" alt="image" src="https://github.com/user-attachments/assets/f8a4bb93-2252-4ae5-89a7-b23508b52ec7" />
-Sau khi áp dụng phân tích tần suất
+- Văn bản mã hoá sau khi áp dụng phân tích tuần suất
+```
+--- Văn bản giải mã  ---
+poadens figg wns hit khiwh ti onye eatoer wafe ir moadcreh, woamo lnv onppeh ti toe list oihest peipde; eatoer redntayeu ir henr fraehcs, woamo as mertnahdv lire uhusund. oe dayec ndihe ah oas oiuse ah snyadde riw, woatoer hihe pehetrntec. n sahgde cilestam suffamec ti serye oal. oe brenkfnstec nhc cahec nt toe mdub, nt oiurs lntoelntamnddv fajec, ah toe snle riil, nt toe snle tnbde, heyer tnkahg oas lends wato itoer lelbers, lumo dess brahgahg n guest wato oal; nhc weht oile nt ejnmtdv lachagot, ihdv ti retare nt ihme ti bec. oe heyer usec toe misv monlbers woamo toe refirl priyaces fir ats fnyiurec lelbers. oe pnssec teh oiurs iut if toe twehtv-fiur ah snyadde riw, eatoer ah sdeepahg ir lnkahg oas tiadet.
+```
 
 
 
