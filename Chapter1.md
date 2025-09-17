@@ -50,7 +50,9 @@ al-Kindī phân tích việc giải mật mã thay thế trong trường hợp b
 1. Tìm một văn bản có cùng ngôn ngữ.
 2. Đếm số lần xuất hiện của từng chữ cái trong văn bản thường. Ký hiệu số từ xuất hiện nhiều nhất là "thứ nhất", "thứ hai",..
 3. Thay thế từ xuất hiện nhiều nhất trong văn bảng mã hoá bằng số từ đã được ký hiệu tương ứng ở bước 2.
-   
+
+   <img width="727" height="670" alt="image" src="https://github.com/user-attachments/assets/aaf3dff3-61ff-469f-8505-4680575662b4" />
+
 ### Phân tích một văn bản mật Mã
 <img width="1091" height="472" alt="image" src="https://github.com/user-attachments/assets/f8a4bb93-2252-4ae5-89a7-b23508b52ec7" />
 
