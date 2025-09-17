@@ -77,7 +77,7 @@ Done.
 <img width="1077" height="800" alt="image" src="https://github.com/user-attachments/assets/38217b5b-b408-4592-af98-a2ab3f1cd6b9" />
 
 Đùa thôi, có quá nhiều vấn đề ở cách làm này:
-- Dễ thấy nhất là chiều dài của ciphertext phải đủ ngắn để ta có thể chỉnh sữa thủ công. Mà thật ra cũng chẳng ai ngồi chỉnh sửa thủ công, người ta quăng lên `Quipquip` :))). 
+- Dễ thấy nhất là chiều dài của ciphertext phải đủ ngắn để ta có thể chỉnh sửa thủ công. Mà thật ra cũng chẳng ai ngồi chỉnh sửa thủ công, người ta quăng lên `Quipquip` :))). 
 - Sử dụng các chương trình có sẵn như `Quipquip` là cách tối ưu nhất khi gặp Subtitution trong CTF. Vậy nếu **Ciphertext quá lớn, siêu lớn, không copy được** để quăng lên Quipquip được thì sao? ~~thì ngửa~~.
 
 Tất nhiên là không ngửa. 
