@@ -1,7 +1,7 @@
 
 # Chapter 1: Từ Ceasar đến "bất khả xâm phạm" Vigenere
 
-À thì nếu có câu hỏi kiểu :"hai ơi có loại mật mã nào vừa dễ hiểu, lại ít toán học, xem xong là giải được CTF mà lại còn ngầu không? ~~vãi lồn~~" thì ừ, Có. Chào mừng đến với chapter đầu tiên.
+À thì nếu có câu hỏi kiểu :"hai ơi có loại mật mã nào vừa dễ hiểu, lại ít toán học, xem xong là giải được CTF mà lại còn ngầu không?" thì ừ, Có. Chào mừng đến với chapter đầu tiên.
 
 ## Mật mã đơn giản (Simple Substitution)
 
@@ -36,7 +36,6 @@ Bản rõ gốc:    I love TDTU!
 Độ dịch:         3
 Bản mã tương ứng: L ORYH WGWX!
 ```
-
 
 ### Giải mã như nào?
 
