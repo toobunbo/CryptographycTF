@@ -21,26 +21,6 @@ Nguyên tắc hoạt động cũng rất đơn giản:
 Substitution.py: 
 
 ```
-def substitution(plaintext: str, bang_chu_cai_ma_hoa: str) -> str:
-    ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-    if len(bang_chu_cai_ma_hoa) != 26 or not bang_chu_cai_ma_hoa.isalpha():
-        return "Lỗi: Bảng chữ cái mã hóa phải là một chuỗi 26 chữ cái."
-    key = {ALPHABET[i]: bang_chu_cai_ma_hoa.upper()[i] for i in range(26)}
-    
-    ciphertext = ""
-    for char in plaintext.upper():
-        ciphertext += key.get(char, char)
-            
-    return ciphertext
-
-if __name__ == "__main__":
-    plaintext = "meet at midnight."
-    key = "QWERTYUIOPASDFGHJKLZXCVBNM"
-    ciphertext = substitution(plaintext, key)
-    print(f"Bản rõ gốc:           {plaintext}")
-    print(f"Bảng chữ cái mã hóa: {key}")
-    print(f"Bản mã tương ứng:      {ciphertext}")
-
 --- debug --- 
 Bản rõ gốc:           meet at midnight.
 Bảng chữ cái mã hóa: QWERTYUIOPASDFGHJKLZXCVBNM
@@ -51,29 +31,6 @@ Bản mã tương ứng:      DTTZ QZ DORFOUIZ.
   
 Rotation.py:
 ```
-def ma_hoa_dich_vong(plaintext: str, Shiftkey: int) -> str:
-    ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-    ciphertext = ""
-
-    for char in plaintext.upper():
-        if char in ALPHABET:
-            current = ALPHABET.find(char)
-            newIndex =(current + ShiftKey) % 26
-            ciphertext += ALPHABET[newIndex]
-        else:
-            ciphertext += char
-    return ciphertext
-
-if __name__ == "__main__":
-    plaintext = "Attack at dawn!"
-    ShiftKey = 3 # với Ceasar là 3  
-    
-    ciphertext = ma_hoa_dich_vong(plaintext, ShiftKey)
-    
-    print(f"Bản rõ gốc:    {plaintext}")
-    print(f"Độ dịch:         {ShiftKey}")
-    print(f"Bản mã tương ứng: {ciphertext}")
-
 --- Ceasar Demo--- 
 Bản rõ gốc:    I love TDTU!
 Độ dịch:         3
