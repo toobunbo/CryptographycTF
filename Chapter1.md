@@ -6,7 +6,7 @@
 ## Mật mã đơn giản (Simple Substitution)
 
 Bản thân mật mã có thể được chia ra làm hai nhánh, được gọi
-là **chuyển vị** và **thay thế**. Ở nội dung này ta sẽ chỉ đề cập đến mật mã **thay thế** và **chuyển vị có cấu trúc**.
+là **chuyển vị** và **thay thế**. Ở nội dung này ta sẽ chỉ đề cập đến mật mã **thay thế** và **chuyển vị mà không giống chuyển vị**.
 ### Cách triển khai
 Tên sao thì nó vậy thôi, vì nội dung này không còn quá xa lạ nên nói qua một chút về lịch sử mật mã nhở.
 
